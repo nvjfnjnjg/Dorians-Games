@@ -1,6 +1,6 @@
 # Taco's Games
 
-My last big project (Collab with my boy Max)
+My last big project (Collab with my boy Maximus-Weichers)
 
 Deploy With Netlify
 
