@@ -1,6 +1,6 @@
 # Dorian's Games
 
-My last big project (Collab with my boy Maximus-Weichers)
+My last big project
 
 Deploy With Netlify
 
