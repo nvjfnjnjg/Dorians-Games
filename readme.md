@@ -6,6 +6,6 @@ My last big project
 
 (Around 50 games.)
 
-![image](https://github.com/Tacogamerman/Dorians-Games/assets/119009502/c32cd72a-ef8b-4e87-8bfd-f104f85beaa8)
+![image](https://github.com/Tacogamerman/Dorians-Games/assets/119009502/69d141fe-48e3-4424-b627-ca52a7466005)
 
 
