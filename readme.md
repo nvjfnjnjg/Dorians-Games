@@ -8,6 +8,6 @@ My last big project
 
 Contains Minecraft, Cookie Clicker, Geometry Dash, and more!
 
-![image](https://github.com/Tacogamerman/Dorians-Games/assets/119009502/69d141fe-48e3-4424-b627-ca52a7466005)
+![image](https://github.com/Tacogamerman/Dorians-Games/assets/119009502/3080601d-9987-4cdb-be69-8de03036a257)
 
 
